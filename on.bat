@@ -1,0 +1,1 @@
+echo %date% , %time% , "出勤" >> ./勤怠記録.csv
